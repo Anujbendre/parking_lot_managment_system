@@ -1,4 +1,4 @@
-# Ignore compiled and IDE files
+# Java
 *.class
 *.log
 *.jar
